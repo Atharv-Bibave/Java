@@ -5,4 +5,4 @@ class Core2Web{
 		System.out.println(var);
 	}
 }
-
+// Explanation : First it assigns the value 4 to the var, after that it performs the increment operator so it gives answer 20

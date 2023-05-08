@@ -4,4 +4,4 @@ class Core2Web{
 		System.out.println(var3 = (var2 = false) == true);
 	}
 }
-
+// Explanation: Precedence is in order '()' then '/' and then '+'.

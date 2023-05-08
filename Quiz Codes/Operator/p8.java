@@ -4,4 +4,6 @@ class Core2Web{
 		var1 = var2 = var3 = 45;
 		System.out.println(var1 + "" +var2+ ""+var3);
 	}
+
 }
+// Explanation: Assignment operation returns the value assigned so it results in 3.
